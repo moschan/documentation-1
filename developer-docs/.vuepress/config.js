@@ -289,6 +289,7 @@ module.exports = {
             '/latest/concepts/requests-responses',
             '/latest/concepts/routing',
             '/latest/concepts/services',
+            '/latest/concepts/sso',
             '/latest/concepts/templates',
             '/latest/concepts/webhooks',
           ],
